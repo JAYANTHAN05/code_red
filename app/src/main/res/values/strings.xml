@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CODE RED</string>
+    <string name="sign_up">
+        Sign up
+    </string>
+    <string name="sign_up_txt">Sign up</string>
+    <string name="by_clicking_this_i_accept_terms_and_condition_txt">by clicking this I accept terms and condition</string>
+    <string name="name_txt">Name</string>
+    <string name="phone_number_txt">Phone Number</string>
+    <string name="already_have_an_account_txt">Already have an Account ?</string>
+    <string name="login_txt">Login</string>
+    <string name="password_txt">Password</string>
+</resources>
